@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yIbKV2lCpy0dHgFKix73z/ygOYhnoLHnC0T9Gy7T2yWW3RpnI42z3CgcvJCX2G9c4aciso0nammSH0b+wh0CVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danye\\OneDrive\\Documentos\\sharp-heroes-api\\sharpHeroesAPI\\sharpHeroesAPI\\sharpHeroesAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danye\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Danye\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Danye\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Danye\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Danye\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Danye\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

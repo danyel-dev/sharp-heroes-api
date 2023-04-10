@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fdzmhB1Z6o5YruKrT9Pg8oEQk3bwK58yC0JqdARQnoI=",
+  "Source": "sharpHeroesAPI",
+  "BasePath": "_content/sharpHeroesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
